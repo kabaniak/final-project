@@ -1,0 +1,6 @@
+#for completing assignment
+numpy
+matplotlib
+pytest
+sklearn
+pandas
